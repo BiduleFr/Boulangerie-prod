@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a14a852.css",
+    "main.js": "/static/js/main.abd94167.js",
+    "static/media/papier peint3.jpg": "/static/media/papier peint3.4e2d595504a41d9cc624.jpg",
+    "static/media/Roman.ttf": "/static/media/Roman.6772a8ef308112f0ae4c.ttf",
+    "static/media/Cardinal.ttf": "/static/media/Cardinal.d0e0e11d3104e931bf04.ttf",
+    "static/media/Traditian.ttf": "/static/media/Traditian.a874c8895f02891411b4.ttf",
+    "index.html": "/index.html",
+    "main.3a14a852.css.map": "/static/css/main.3a14a852.css.map",
+    "main.abd94167.js.map": "/static/js/main.abd94167.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a14a852.css",
+    "static/js/main.abd94167.js"
+  ]
+}
